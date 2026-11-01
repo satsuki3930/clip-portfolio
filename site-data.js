@@ -1,6 +1,6 @@
 /* このファイルの値を変更するだけでポートフォリオの内容を更新できます。 */
 window.PORTFOLIO = {
-  name: 'おさつ',
+  name: 'May',
   role: 'VIDEO EDITOR / VTUBER CLIPS',
   email: 'satsuki3930@gmail.com', // 未設定の場合はメールリンクを表示しません
   formEndpoint: '', // Formspree の URL（例: https://formspree.io/f/xxxxxxxx）。空なら下の formUrl を使う
